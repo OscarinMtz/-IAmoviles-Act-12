@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937481081101",
+    "project_id": "bdcrudelectronicos",
+    "storage_bucket": "bdcrudelectronicos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937481081101:android:9252d7c3f63ae4258ea044",
+        "android_client_info": {
+          "package_name": "com.example.crudelectronicos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rrzTxAkjASchYainZyyTZ6jnGGCQNi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
